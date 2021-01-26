@@ -1,0 +1,7 @@
+C:\Csharp\lesson1\lesson1\lesson1\bin\Debug\lesson1.exe.config
+C:\Csharp\lesson1\lesson1\lesson1\bin\Debug\lesson1.exe
+C:\Csharp\lesson1\lesson1\lesson1\bin\Debug\lesson1.pdb
+C:\Csharp\lesson1\lesson1\lesson1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Csharp\lesson1\lesson1\lesson1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Csharp\lesson1\lesson1\lesson1\obj\Debug\lesson1.exe
+C:\Csharp\lesson1\lesson1\lesson1\obj\Debug\lesson1.pdb
