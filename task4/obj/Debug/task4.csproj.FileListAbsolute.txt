@@ -1,0 +1,6 @@
+C:\Csharp\lesson1\task4\bin\Debug\task4.exe.config
+C:\Csharp\lesson1\task4\bin\Debug\task4.exe
+C:\Csharp\lesson1\task4\bin\Debug\task4.pdb
+C:\Csharp\lesson1\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Csharp\lesson1\task4\obj\Debug\task4.exe
+C:\Csharp\lesson1\task4\obj\Debug\task4.pdb

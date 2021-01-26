@@ -1,0 +1,7 @@
+C:\Csharp\lesson1\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Csharp\lesson1\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Csharp\lesson1\task3\bin\Debug\task3.exe.config
+C:\Csharp\lesson1\task3\bin\Debug\task3.exe
+C:\Csharp\lesson1\task3\bin\Debug\task3.pdb
+C:\Csharp\lesson1\task3\obj\Debug\task3.exe
+C:\Csharp\lesson1\task3\obj\Debug\task3.pdb
