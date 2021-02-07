@@ -1,0 +1,6 @@
+C:\Csharp\lesson1\lesson2\task1\lesson2\bin\Debug\lesson2.exe.config
+C:\Csharp\lesson1\lesson2\task1\lesson2\bin\Debug\lesson2.exe
+C:\Csharp\lesson1\lesson2\task1\lesson2\bin\Debug\lesson2.pdb
+C:\Csharp\lesson1\lesson2\task1\lesson2\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Csharp\lesson1\lesson2\task1\lesson2\obj\Debug\lesson2.exe
+C:\Csharp\lesson1\lesson2\task1\lesson2\obj\Debug\lesson2.pdb
