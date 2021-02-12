@@ -1,0 +1,7 @@
+C:\Csharp\NEW_lesson4\lesson4\task2\bin\Debug\task2.exe.config
+C:\Csharp\NEW_lesson4\lesson4\task2\bin\Debug\task2.exe
+C:\Csharp\NEW_lesson4\lesson4\task2\bin\Debug\task2.pdb
+C:\Csharp\NEW_lesson4\lesson4\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Csharp\NEW_lesson4\lesson4\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Csharp\NEW_lesson4\lesson4\task2\obj\Debug\task2.exe
+C:\Csharp\NEW_lesson4\lesson4\task2\obj\Debug\task2.pdb
